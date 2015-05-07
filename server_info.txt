@@ -1,3 +1,3 @@
-com-ci	10004	dragon.labs.microstrategy.com:31095	
-demo-marathon	10000	10.27.64.60:31292	
-devops-jenkins	10002	dragon.labs.microstrategy.com:31119	
+com-ci	10004	10.27.64.60:31554	
+demo-marathon	10000	
+devops-jenkins	10002	10.27.64.60:31643	
